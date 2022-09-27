@@ -11,7 +11,8 @@ To write a python program to implement K-Means Clustering Algorithm.
 ## Step3:Import sklearn.cluster from KMeans module. 
 ## Step4:Import seaborn Step5:Import warnings 
 ## Step6:Declare warnings.filerwarning with ignore as argument 
-## Step7:Declare a variable x1 and read a csv file(clustering.csv) in it. ## Step8:Declare a variable x2 as index of x1 with arguments ApplicantIncome and LoanAmount. 
+## Step7:Declare a variable x1 and read a csv file(clustering.csv) in it.
+## Step8:Declare a variable x2 as index of x1 with arguments ApplicantIncome and LoanAmount. 
 ## Step9:Display x1.head(2) and x2.head(2). 
 ## Step10:Declare a variable x and store x2.values.
  ## Step11:Declare sns.scatterplot for ApplicantIncome and LoanAmount by indexing. 
