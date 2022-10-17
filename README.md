@@ -38,8 +38,11 @@ Display kmean.labels_ ##Step16:Declare a variable predcited_class to kmean.predi
 Display the predicted_class
 
 ## Program:
-## Developed by: s.vinod kumar
-## register no: 22004903
+
+Developed by: s.vinod kumar
+
+register no: 22004903
+
 
 ```python
 import pandas as pd
