@@ -13,7 +13,9 @@ Import matplotlib.pyplot.
 ## Step3:
 Import sklearn.cluster from KMeans module. 
 ## Step4:
-Import seaborn Step5:Import warnings 
+Import seaborn 
+## Step5:
+Import warnings 
 ## Step6:
 Declare warnings.filerwarning with ignore as argument 
 ## Step7:
@@ -33,7 +35,9 @@ Declare a variable x and store x2.values.
  ## Step14:
  Display kmean.cluster)centers 
 ## Step15:
-Display kmean.labels_ ##Step16:Declare a variable predcited_class to kmean.predict([[]]) and give two arguments in it. 
+Display kmean.labels_ 
+##Step16:
+Declare a variable predcited_class to kmean.predict([[]]) and give two arguments in it. 
 ## Step17:
 Display the predicted_class
 
