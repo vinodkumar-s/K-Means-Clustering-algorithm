@@ -36,7 +36,7 @@ Declare a variable x and store x2.values.
  Display kmean.cluster)centers 
 ## Step15:
 Display kmean.labels_ 
-##Step16:
+## Step16:
 Declare a variable predcited_class to kmean.predict([[]]) and give two arguments in it. 
 ## Step17:
 Display the predicted_class
